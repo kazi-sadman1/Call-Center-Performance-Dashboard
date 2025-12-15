@@ -6,6 +6,9 @@ An interactive Excel dashboard designed to analyze and visualize call center ope
 
 ### File Link - https://drive.google.com/drive/folders/12xlQ4B4i0iw0f27K1tEcrKTO4NVwvIpR?usp=sharing
 
+## Dashboard:
+![dashboard-image](https://drive.google.com/file/d/1fLj2iopy8jgvLlnjtogT9cDg8smI7ilh/view?usp=sharing)
+
 ## 🔍 Key Features
 
 ### Overall Call Performance Overview
